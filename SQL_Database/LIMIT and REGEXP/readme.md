@@ -5,6 +5,7 @@
 <p align="center"> The word "limit" have two input, the first is referring the offset (how many numbers need jump before start) and the second is referring the number of elements </p>
 <img  width="80%" src=https://github.com/DsBrito/My_BackendCourses/assets/80075307/7fba378e-8955-45bb-b9ef-54f420b49be9">
 <br /><br />
+  
 ---
 <h3 align="left">✅ Operator REGEXP </h3>
 <div style="display: inline_block" align="center">
