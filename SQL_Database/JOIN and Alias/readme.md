@@ -8,6 +8,8 @@
 <img  width="80%" src="https://github.com/DsBrito/My_BackendCourses/assets/80075307/64bca1cd-aee2-40ee-ab00-bcdcb107db8c">
 <p align="center"> It is possible to filter which table columns will be displayed </p>
 <img  width="80%" src="https://github.com/DsBrito/My_BackendCourses/assets/80075307/9ad787c3-4749-4d62-928e-318b742c2b8e">
+<p> Multiples Join Tables</p>
+<img  width="80%" src="https://github.com/DsBrito/My_BackendCourses/assets/80075307/b1105a42-8383-4bb5-9c79-ec11f9bfd7ce">
 
 ---
 <h3 align="left">✅ Alias  </h3>
