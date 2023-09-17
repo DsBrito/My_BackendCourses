@@ -1,8 +1,17 @@
 ## Subqueries, IN and ANY
 <h3 align="left">✅ Subqueries </h3>
 <p align="just"> A subquery is a feature within SQL that allows the creation of more optimized queries, reusing the result of a query within another query. </p>
+
+We can use subqueries in 3 situations:
+<div style="display: inline_block" align="left">
+
+-  Within the WHERE clause, as a filter;
+-  Within the SELECT clause, as a new column;
+-  Within the FROM clause, as a new table.
+
 <div style="display: inline_block" align="center">
-<img  width="80%" src="https://github.com/DsBrito/My_BackendCourses/assets/80075307/d68e2a20-eacd-4285-a9ad-276e59639b7f">
+
+<img  width="80%" src="https://github.com/DsBrito/My_BackendCourses/assets/80075307/29fe2bd1-411f-4b08-ac21-fdce294ba006">
 <br /><br />
 
 ---
